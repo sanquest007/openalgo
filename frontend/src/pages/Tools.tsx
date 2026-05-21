@@ -47,6 +47,12 @@ const tools = [
     color: 'bg-teal-500',
   },
   {
+    title: 'Option Norm / Aggregate Premium Chart',
+    description: 'High-performance multi-contract OHLCV premium chart with indicators, drawing tools, and template saving',
+    href: '/optionspremium',
+    color: 'bg-indigo-600',
+  },
+  {
     title: 'Straddle PnL',
     description: 'Simulated intraday ATM straddle P&L with automated N-point adjustments and trade log',
     href: '/straddlepnl',

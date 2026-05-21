@@ -32,6 +32,7 @@ const PAGE_TITLES: Record<string, string> = {
   '/oitracker': 'OI Tracker',
   '/maxpain': 'Max Pain',
   '/straddle': 'Straddle Chart',
+  '/optionspremium': 'Option Norm / Aggregate Premium Chart',
   '/straddlepnl': 'Straddle P&L',
   '/volsurface': 'Vol Surface',
   '/gex': 'GEX Dashboard',

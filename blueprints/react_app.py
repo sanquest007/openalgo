@@ -215,6 +215,12 @@ def react_straddle():
     return serve_react_app()
 
 
+# Options Premium Chart - Multi-contract OHLCV chart with amCharts 5 indicators
+@react_bp.route("/optionspremium")
+def react_options_premium():
+    return serve_react_app()
+
+
 # Vol Surface - 3D Implied Volatility surface
 @react_bp.route("/volsurface")
 def react_volsurface():

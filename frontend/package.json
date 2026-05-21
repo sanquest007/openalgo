@@ -24,6 +24,7 @@
     "e2e:codegen": "playwright codegen http://localhost:5173"
   },
   "dependencies": {
+    "@amcharts/amcharts5": "^5.17.2",
     "@codemirror/lang-json": "^6.0.2",
     "@codemirror/lang-python": "^6.2.1",
     "@radix-ui/react-accordion": "^1.2.12",
